@@ -20,6 +20,7 @@ public class Order {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
     private String orderNumber;
+   private String skuCode;
     private int quantity;
     private BigDecimal price;
 
