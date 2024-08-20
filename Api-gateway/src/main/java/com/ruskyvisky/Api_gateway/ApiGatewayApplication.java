@@ -1,4 +1,4 @@
-package com.ruskyvisky.Api_gateway;
+package com.ruskyvisky.api_gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
